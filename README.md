@@ -2,6 +2,12 @@
 
 Site Under Development
 
+Open Only Desktop
+
+
+LIVE DEMO: https://himanshukumar77.github.io/Sukuna-Animation-Loading-page/
+
+
 
 
 
